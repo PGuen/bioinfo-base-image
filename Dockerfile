@@ -68,7 +68,8 @@ RUN conda install -y numpy=1.16.1 \
 				 trimmomatic=0.38 \
 				 cutadapt=1.18 \
 				 seqtk=1.3 \
-				 picard=2.18.26
+				 picard=2.19.0 \
+				 seqkit=0.10.1
 
 # pip install
 RUN pip install CITE-seq-Count==1.4.1

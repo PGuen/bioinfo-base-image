@@ -26,5 +26,11 @@ So far stuff that's included:
 - homer
 - subread
 
+Added
+- seqkit
+Updated
+- Picard
+
+
 You can either use this as a base for your own docker image or
 extend this image with new tools if you find them generally useful.
