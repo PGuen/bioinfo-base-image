@@ -28,6 +28,7 @@ So far stuff that's included:
 
 Added
 - seqkit
+
 Updated
 - Picard
 
